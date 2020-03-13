@@ -5,8 +5,8 @@ College Park (December 14, 2016).
 
 
 SQL stands for Structured Query Language. You may hear it pronounced in the
-same way as the word ”sequel” or as S-Q-L. SQL is the language used to interact
-with a relational database. A ”SQL database” is any database one can interact
+same way as the word "sequel" or as S-Q-L. SQL is the language used to interact
+with a relational database. A "SQL database" is any database one can interact
 with via SQL.
 
 Common SQL database management systems include mySQL and postgreSQL,
